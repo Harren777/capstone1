@@ -1,0 +1,232 @@
+html {
+
+
+	scroll-behavior: smooth !important;
+}
+
+#pogi {
+width:12%;
+height:auto;
+float: left;
+}
+
+#landing {
+	background-color: #020202;
+	background-image: url("./images/peakpx.jpg");
+	min-height: 100vh !important;
+	background-color: gray !important;
+	background-size: cover !important;
+	background-position: center top !important;
+	background-attachment: fixed !important;
+
+
+}
+
+nav {
+	color: #FFD700 !important;
+	background-color: #FFD700;
+}
+
+
+
+#navbar {
+	background-color: #020202 !important;
+	padding-right: 1rem;
+	padding-left: 1rem;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	z-index: 1;
+	font-family: 'Rubik Lines', sans-serif !important;
+	font-size: 18px !important;
+	color: #FFD700 !important;
+}
+
+#menu {
+	font-family: 'Rubik Lines', sans-serif !important;
+	font-size: 1.5rem !important;
+	color: #FFD700 !important;
+	text-align: left;
+	text-decoration: none;
+}
+
+
+/*Red #F70D1A*/
+/*Cyan #0ffbf9*/
+
+#menu:link, a:link {
+	color: #FFD700 !important;
+}
+
+#menu:visited, a:link {
+	color: #FFD700 !important;
+}
+
+#menu:hover, a:link {
+	color: #F70D1A !important;
+}
+
+#menu:active, a:link {
+	color: #F70D1A !important;
+
+}
+
+
+#welcome {
+	font-family: 'Rubik Lines', monospace !important;
+	font-size: 1.5rem !important;
+	color: #FEBE10;
+	text-align: left;
+}
+
+#title-1 {
+	font-size: 5rem !important;
+	font-family: 'Rubik Lines', sans-serif !important;
+	color: #FFD700;
+	text-align: left;
+}
+
+#subtitle {
+	font-family: 'Rubik Lines', monospace !important;
+	font-size: 2rem !important;
+	color: #FEBE10;
+	text-align: left;
+}
+
+#subtitle-2 {
+	font-family: 'Rubik Lines', sans-serif !important;
+	font-size: 1.5rem !important;
+	color: #452c63;
+	text-align: center;
+}
+
+#bg-red {
+	background-color: #cc0f39;
+}
+
+#bg-blue {
+	background-color: #0ffbf9;
+}
+
+#bg-black {
+	background-color: #020202;
+}
+
+#bg-dgray {
+	background-color: #020202;
+	color: #fefdfe;
+	font-family: 'Rubik Lines', monospace !important;
+	font-size: 20px !important;
+	text-align: center;
+	list-style: none;
+}
+#bg-lgray {
+	background-color: #3e3c41;
+	font-family: 'Rubik Lines', sans-serif !important;
+	font-size: 1.5rem !important;
+	color: #fefdfe;
+	text-align: left !important;
+	width: 100%;
+}
+
+#bg-white {
+	background-color: #fdfefe;
+}
+
+ #projects, #tools, #contact {
+ 	background-repeat: no-repeat;
+	background-color: #020202;
+	background-image: url(./images/starwars.webp);
+	background-size: cover;
+	color: #FFD700;
+	font-family: 'Rubik Lines', monospace !important;
+	font-size: 1.5rem !important;
+	scroll-behavior: smooth !important;
+
+}
+
+#title-2 {
+	font-size: 3rem !important;
+	font-family: 'Rubik Lines', sans-serif !important;
+	color: #EE4B2B;
+	text-align: left;
+}
+
+#content {
+	color: #fdfefe;
+	font-family: 'Rubik Lines', monospace !important;
+	font-size: 1.0rem !important;
+}
+
+#content-red {
+	color: #FF0000;
+	font-family: 'Rubik Lines', monospace !important;
+	font-size: 1.0rem !important;
+}
+
+#content-blk {
+	color: #020202;
+	font-family: 'Rubik Lines', monospace !important;
+	font-size: 1.0rem !important;
+	text-align: center;
+}
+
+#accordion-title {
+	font-family: 'Rubik Lines', sans-serif !important;
+	font-size: 1.5rem !important;
+	color: #0ffbf9;
+	text-align: left;
+	text-decoration: none;
+}
+
+#highlight {
+	font-family: 'Rubik Lines', sans-serif !important;
+	font-size: 1.5rem !important;
+	color: #F70D1A;
+	text-align: center;
+	text-decoration: none;
+}
+
+#highlight-left {
+	font-family: 'Rubik Lines', sans-serif !important;
+	font-size: 1.5rem !important;
+	color: #F70D1A;
+	text-align: left;
+	text-decoration: none;
+}
+
+#emphasis {
+	font-family: 'Rubik Lines', sans-serif !important;
+	font-size: 1.5rem !important;
+	color: #cdc764;
+	text-align: center;
+	text-decoration: none;
+}
+
+#button {
+	font-family: 'Rubik Lines', sans-serif !important;
+	font-size: 1.5rem !important;
+	color: #fdfefe;
+	text-align: left;
+	text-decoration: none;
+	background-color: #FFD700;
+}
+
+#button:hover {
+	font-family: 'Rubik Lines', sans-serif !important;
+	font-size: 1.5rem !important;
+	color: #fdfefe;
+	text-align: left;
+	text-decoration: none;
+	background-color: #cc0f39;
+}
+
+#socmed-logo {
+	width: 3.5em;
+	height: 3.5em;
+}
+
+#tools-logo {
+	width: 3rem;
+	height: 3rem;
+}
